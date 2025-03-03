@@ -1,3 +1,3 @@
-alert = ('Please Work!');
+alert('Please Work!');
 
-console.log(alert);
+console.log(testing123);
