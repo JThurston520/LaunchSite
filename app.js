@@ -1,3 +1,3 @@
 alert('Please Work!');
 
-console.log(testing123);
+console.log('testing123');
